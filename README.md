@@ -6,6 +6,5 @@
 
 ### [Result]
 
-
-https://github.com/ios-carki/CustomToastView/assets/44957712/d01e97b5-f0cc-48b9-9385-e99d5dc105f5
+https://github.com/ios-carki/CustomToastView/assets/44957712/81eab185-35d2-4bbd-8d9d-b2471f5d5a26
 
